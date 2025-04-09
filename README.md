@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Most used languages 
----
+Student at FIT VUT BRNO
 [![Top Langs](https://github-readme-stats-xkaska02s-projects.vercel.app/api/top-langs/?username=xkaska02)](https://github.com/xkaska02/github-readme-stats)
 
 <!--
